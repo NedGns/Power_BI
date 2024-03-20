@@ -1,0 +1,3354 @@
+[
+  {
+    "Name": 2459,
+    "AC": "1,419",
+    "PY": "1,425",
+    "DeltaPY": -5.93,
+    "DeltaPYP": -0.42,
+    "Order": "1,419"
+  },
+  {
+    "Name": 0,
+    "AC": "1,175",
+    "PY": "-",
+    "DeltaPY": "1,174.68",
+    "DeltaPYP": "",
+    "Order": "1,175"
+  },
+  {
+    "Name": 921,
+    "AC": "1,171",
+    "PY": "1,171",
+    "DeltaPY": -0.33,
+    "DeltaPYP": -0.03,
+    "Order": "1,171"
+  },
+  {
+    "Name": 1964,
+    "AC": 955,
+    "PY": 959,
+    "DeltaPY": -3.64,
+    "DeltaPYP": -0.38,
+    "Order": 955
+  },
+  {
+    "Name": 946,
+    "AC": 684,
+    "PY": "-",
+    "DeltaPY": 684.43,
+    "DeltaPYP": "",
+    "Order": 684
+  },
+  {
+    "Name": 2466,
+    "AC": 391,
+    "PY": 391,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 391
+  },
+  {
+    "Name": 2566,
+    "AC": 350,
+    "PY": 350,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 350
+  },
+  {
+    "Name": 2571,
+    "AC": 293,
+    "PY": 293,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 293
+  },
+  {
+    "Name": 2575,
+    "AC": 228,
+    "PY": 227,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 228
+  },
+  {
+    "Name": 2561,
+    "AC": 227,
+    "PY": 227,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 227
+  },
+  {
+    "Name": 2559,
+    "AC": 200,
+    "PY": 200,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 200
+  },
+  {
+    "Name": 2570,
+    "AC": 198,
+    "PY": 198,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 198
+  },
+  {
+    "Name": 3184,
+    "AC": 195,
+    "PY": 44,
+    "DeltaPY": 150.27,
+    "DeltaPYP": 338.36,
+    "Order": 195
+  },
+  {
+    "Name": 850,
+    "AC": 192,
+    "PY": 192,
+    "DeltaPY": -0.5,
+    "DeltaPYP": -0.26,
+    "Order": 192
+  },
+  {
+    "Name": 3887,
+    "AC": 190,
+    "PY": 190,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 190
+  },
+  {
+    "Name": 1334,
+    "AC": 160,
+    "PY": 160,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 160
+  },
+  {
+    "Name": 1329,
+    "AC": 144,
+    "PY": 136,
+    "DeltaPY": 7.61,
+    "DeltaPYP": 5.59,
+    "Order": 144
+  },
+  {
+    "Name": 1322,
+    "AC": 142,
+    "PY": 125,
+    "DeltaPY": 17.95,
+    "DeltaPYP": 14.42,
+    "Order": 142
+  },
+  {
+    "Name": 3279,
+    "AC": 134,
+    "PY": 134,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 134
+  },
+  {
+    "Name": 2579,
+    "AC": 131,
+    "PY": 131,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 131
+  },
+  {
+    "Name": 1158,
+    "AC": 129,
+    "PY": 129,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 129
+  },
+  {
+    "Name": 1342,
+    "AC": 115,
+    "PY": 114,
+    "DeltaPY": 0.83,
+    "DeltaPYP": 0.73,
+    "Order": 115
+  },
+  {
+    "Name": 1188.3,
+    "AC": 109,
+    "PY": 50,
+    "DeltaPY": 58.54,
+    "DeltaPYP": 116.45,
+    "Order": 109
+  },
+  {
+    "Name": 3115.1,
+    "AC": 102,
+    "PY": 102,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 102
+  },
+  {
+    "Name": 1364,
+    "AC": 96,
+    "PY": 105,
+    "DeltaPY": -8.72,
+    "DeltaPYP": -8.3,
+    "Order": 96
+  },
+  {
+    "Name": 2560,
+    "AC": 95,
+    "PY": 95,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 95
+  },
+  {
+    "Name": 1350,
+    "AC": 90,
+    "PY": 90,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 90
+  },
+  {
+    "Name": 3847,
+    "AC": 82,
+    "PY": 82,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 82
+  },
+  {
+    "Name": 3837,
+    "AC": 81,
+    "PY": 81,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 81
+  },
+  {
+    "Name": 2564,
+    "AC": 75,
+    "PY": 75,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 75
+  },
+  {
+    "Name": 1348,
+    "AC": 66,
+    "PY": 59,
+    "DeltaPY": 7.53,
+    "DeltaPYP": 12.8,
+    "Order": 66
+  },
+  {
+    "Name": 2481,
+    "AC": 64,
+    "PY": 63,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 64
+  },
+  {
+    "Name": 3276.1,
+    "AC": 63,
+    "PY": 63,
+    "DeltaPY": 0.09,
+    "DeltaPYP": 0.14,
+    "Order": 63
+  },
+  {
+    "Name": 3863,
+    "AC": 62,
+    "PY": 62,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 0.05,
+    "Order": 62
+  },
+  {
+    "Name": 3173.2,
+    "AC": 59,
+    "PY": 59,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 59
+  },
+  {
+    "Name": 3869,
+    "AC": 56,
+    "PY": 56,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 56
+  },
+  {
+    "Name": 3173,
+    "AC": 56,
+    "PY": 56,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 56
+  },
+  {
+    "Name": 2565,
+    "AC": 54,
+    "PY": 54,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 54
+  },
+  {
+    "Name": 2567,
+    "AC": 50,
+    "PY": 50,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 50
+  },
+  {
+    "Name": 2473.2,
+    "AC": 50,
+    "PY": 56,
+    "DeltaPY": -5.8,
+    "DeltaPYP": -10.43,
+    "Order": 50
+  },
+  {
+    "Name": 3166,
+    "AC": 45,
+    "PY": 42,
+    "DeltaPY": 3.04,
+    "DeltaPYP": 7.25,
+    "Order": 45
+  },
+  {
+    "Name": 2573,
+    "AC": 44,
+    "PY": 44,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 44
+  },
+  {
+    "Name": 3186,
+    "AC": 42,
+    "PY": 42,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 42
+  },
+  {
+    "Name": 2564.1,
+    "AC": 40,
+    "PY": 40,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 40
+  },
+  {
+    "Name": 3815,
+    "AC": 40,
+    "PY": 43,
+    "DeltaPY": -2.99,
+    "DeltaPYP": -6.93,
+    "Order": 40
+  },
+  {
+    "Name": 3191,
+    "AC": 40,
+    "PY": 40,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 40
+  },
+  {
+    "Name": 2602,
+    "AC": 39,
+    "PY": 33,
+    "DeltaPY": 5.78,
+    "DeltaPYP": 17.38,
+    "Order": 39
+  },
+  {
+    "Name": 3889,
+    "AC": 39,
+    "PY": 38,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 39
+  },
+  {
+    "Name": 3879,
+    "AC": 37,
+    "PY": 37,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 37
+  },
+  {
+    "Name": 2569,
+    "AC": 37,
+    "PY": 37,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 37
+  },
+  {
+    "Name": 1327,
+    "AC": 37,
+    "PY": 31,
+    "DeltaPY": 5.5,
+    "DeltaPYP": 17.65,
+    "Order": 37
+  },
+  {
+    "Name": 3168.1,
+    "AC": 36,
+    "PY": 36,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 36
+  },
+  {
+    "Name": 3843,
+    "AC": 35,
+    "PY": 33,
+    "DeltaPY": 2.11,
+    "DeltaPYP": 6.49,
+    "Order": 35
+  },
+  {
+    "Name": 2563,
+    "AC": 35,
+    "PY": 35,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 35
+  },
+  {
+    "Name": 3816,
+    "AC": 34,
+    "PY": 34,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 34
+  },
+  {
+    "Name": 2554,
+    "AC": 34,
+    "PY": 44,
+    "DeltaPY": -9.59,
+    "DeltaPYP": -22.01,
+    "Order": 34
+  },
+  {
+    "Name": 3861,
+    "AC": 33,
+    "PY": 33,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 33
+  },
+  {
+    "Name": 2578.1,
+    "AC": 33,
+    "PY": 33,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 33
+  },
+  {
+    "Name": 2577,
+    "AC": 32,
+    "PY": 32,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 32
+  },
+  {
+    "Name": 3181,
+    "AC": 32,
+    "PY": 31,
+    "DeltaPY": 1,
+    "DeltaPYP": 3.28,
+    "Order": 32
+  },
+  {
+    "Name": 1349,
+    "AC": 31,
+    "PY": 15,
+    "DeltaPY": 16.11,
+    "DeltaPYP": 110.57,
+    "Order": 31
+  },
+  {
+    "Name": 3140.1,
+    "AC": 30,
+    "PY": 30,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 30
+  },
+  {
+    "Name": 2568,
+    "AC": 30,
+    "PY": 30,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 30
+  },
+  {
+    "Name": 3170,
+    "AC": 30,
+    "PY": 30,
+    "DeltaPY": 0.25,
+    "DeltaPYP": 0.84,
+    "Order": 30
+  },
+  {
+    "Name": 3167,
+    "AC": 30,
+    "PY": 30,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 30
+  },
+  {
+    "Name": 1362,
+    "AC": 29,
+    "PY": 29,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 29
+  },
+  {
+    "Name": 3172,
+    "AC": 27,
+    "PY": 27,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 27
+  },
+  {
+    "Name": 2572,
+    "AC": 27,
+    "PY": 27,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 27
+  },
+  {
+    "Name": 3190.1,
+    "AC": 27,
+    "PY": 27,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 27
+  },
+  {
+    "Name": 1360,
+    "AC": 27,
+    "PY": 26,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 27
+  },
+  {
+    "Name": "xx5",
+    "AC": 26,
+    "PY": 28,
+    "DeltaPY": -2.36,
+    "DeltaPYP": -8.31,
+    "Order": 26
+  },
+  {
+    "Name": 3131.1,
+    "AC": 25,
+    "PY": 25,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 25
+  },
+  {
+    "Name": 1340,
+    "AC": 25,
+    "PY": 22,
+    "DeltaPY": 3,
+    "DeltaPYP": 13.59,
+    "Order": 25
+  },
+  {
+    "Name": 3860,
+    "AC": 24,
+    "PY": 24,
+    "DeltaPY": -0.14,
+    "DeltaPYP": -0.59,
+    "Order": 24
+  },
+  {
+    "Name": 1361,
+    "AC": 24,
+    "PY": 24,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 24
+  },
+  {
+    "Name": 3136.1,
+    "AC": 23,
+    "PY": 23,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 23
+  },
+  {
+    "Name": 1101,
+    "AC": 23,
+    "PY": 23,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 23
+  },
+  {
+    "Name": 3848,
+    "AC": 22,
+    "PY": 22,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 22
+  },
+  {
+    "Name": 1098,
+    "AC": 22,
+    "PY": 21,
+    "DeltaPY": 1.11,
+    "DeltaPYP": 5.34,
+    "Order": 22
+  },
+  {
+    "Name": 2542.2,
+    "AC": 22,
+    "PY": 18,
+    "DeltaPY": 3.37,
+    "DeltaPYP": 18.39,
+    "Order": 22
+  },
+  {
+    "Name": 3183,
+    "AC": 22,
+    "PY": 37,
+    "DeltaPY": -15.08,
+    "DeltaPYP": -41.11,
+    "Order": 22
+  },
+  {
+    "Name": 3121.1,
+    "AC": 21,
+    "PY": 21,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 21
+  },
+  {
+    "Name": 1850,
+    "AC": 20,
+    "PY": 20,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 20
+  },
+  {
+    "Name": 3185,
+    "AC": 20,
+    "PY": 32,
+    "DeltaPY": -11.87,
+    "DeltaPYP": -37.25,
+    "Order": 20
+  },
+  {
+    "Name": 3187,
+    "AC": 20,
+    "PY": 20,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 20
+  },
+  {
+    "Name": 3188,
+    "AC": 20,
+    "PY": 20,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 20
+  },
+  {
+    "Name": 2576,
+    "AC": 20,
+    "PY": 19,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 20
+  },
+  {
+    "Name": 3190.2,
+    "AC": 20,
+    "PY": 20,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 20
+  },
+  {
+    "Name": 3120,
+    "AC": 19,
+    "PY": 19,
+    "DeltaPY": 0.48,
+    "DeltaPYP": 2.56,
+    "Order": 19
+  },
+  {
+    "Name": 3812,
+    "AC": 18,
+    "PY": 18,
+    "DeltaPY": -0.2,
+    "DeltaPYP": -1.12,
+    "Order": 18
+  },
+  {
+    "Name": 1368,
+    "AC": 18,
+    "PY": 18,
+    "DeltaPY": 0.02,
+    "DeltaPYP": 0.1,
+    "Order": 18
+  },
+  {
+    "Name": 2578,
+    "AC": 18,
+    "PY": 18,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 18
+  },
+  {
+    "Name": 3870,
+    "AC": 17,
+    "PY": 17,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 17
+  },
+  {
+    "Name": 1092,
+    "AC": 17,
+    "PY": 14,
+    "DeltaPY": 2.46,
+    "DeltaPYP": 17.51,
+    "Order": 17
+  },
+  {
+    "Name": 3858,
+    "AC": 16,
+    "PY": 16,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 16
+  },
+  {
+    "Name": 2468,
+    "AC": 15,
+    "PY": 15,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 15
+  },
+  {
+    "Name": 2553.1,
+    "AC": 15,
+    "PY": 15,
+    "DeltaPY": 0.37,
+    "DeltaPYP": 2.56,
+    "Order": 15
+  },
+  {
+    "Name": 3134,
+    "AC": 15,
+    "PY": 15,
+    "DeltaPY": 0.3,
+    "DeltaPYP": 2.04,
+    "Order": 15
+  },
+  {
+    "Name": 3844,
+    "AC": 15,
+    "PY": 2,
+    "DeltaPY": 12.4,
+    "DeltaPYP": 511.33,
+    "Order": 15
+  },
+  {
+    "Name": 3119,
+    "AC": 13,
+    "PY": 13,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 13
+  },
+  {
+    "Name": 3162,
+    "AC": 13,
+    "PY": 19,
+    "DeltaPY": -5.93,
+    "DeltaPYP": -31.97,
+    "Order": 13
+  },
+  {
+    "Name": 1370,
+    "AC": 12,
+    "PY": 12,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 12
+  },
+  {
+    "Name": 1365,
+    "AC": 12,
+    "PY": 12,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 12
+  },
+  {
+    "Name": 1871,
+    "AC": 12,
+    "PY": 4,
+    "DeltaPY": 7.82,
+    "DeltaPYP": 180.56,
+    "Order": 12
+  },
+  {
+    "Name": 1320,
+    "AC": 12,
+    "PY": 17,
+    "DeltaPY": -5.28,
+    "DeltaPYP": -30.8,
+    "Order": 12
+  },
+  {
+    "Name": 979,
+    "AC": 12,
+    "PY": 4,
+    "DeltaPY": 7.51,
+    "DeltaPYP": 174.24,
+    "Order": 12
+  },
+  {
+    "Name": 2562,
+    "AC": 12,
+    "PY": 12,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 12
+  },
+  {
+    "Name": 1097,
+    "AC": 11,
+    "PY": 11,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 11
+  },
+  {
+    "Name": 2476,
+    "AC": 11,
+    "PY": 11,
+    "DeltaPY": 0.17,
+    "DeltaPYP": 1.54,
+    "Order": 11
+  },
+  {
+    "Name": 1336,
+    "AC": 11,
+    "PY": 10,
+    "DeltaPY": 1.4,
+    "DeltaPYP": 14.67,
+    "Order": 11
+  },
+  {
+    "Name": 3179,
+    "AC": 11,
+    "PY": 11,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 11
+  },
+  {
+    "Name": 3190,
+    "AC": 11,
+    "PY": 11,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 11
+  },
+  {
+    "Name": 3182,
+    "AC": 10,
+    "PY": 35,
+    "DeltaPY": -24.28,
+    "DeltaPYP": -70.01,
+    "Order": 10
+  },
+  {
+    "Name": 3189,
+    "AC": 10,
+    "PY": 10,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 10
+  },
+  {
+    "Name": 1376,
+    "AC": 10,
+    "PY": 2,
+    "DeltaPY": 7.88,
+    "DeltaPYP": 322.36,
+    "Order": 10
+  },
+  {
+    "Name": 2464,
+    "AC": 10,
+    "PY": 12,
+    "DeltaPY": -2.14,
+    "DeltaPYP": -17.47,
+    "Order": 10
+  },
+  {
+    "Name": 1064,
+    "AC": 10,
+    "PY": 10,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 10
+  },
+  {
+    "Name": 3877,
+    "AC": 10,
+    "PY": 10,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 10
+  },
+  {
+    "Name": 1367,
+    "AC": 10,
+    "PY": 12,
+    "DeltaPY": -2.5,
+    "DeltaPYP": -20.3,
+    "Order": 10
+  },
+  {
+    "Name": 1366,
+    "AC": 10,
+    "PY": 10,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 10
+  },
+  {
+    "Name": 1354,
+    "AC": 10,
+    "PY": 7,
+    "DeltaPY": 3.09,
+    "DeltaPYP": 47.47,
+    "Order": 10
+  },
+  {
+    "Name": 3123,
+    "AC": 10,
+    "PY": 5,
+    "DeltaPY": 4.06,
+    "DeltaPYP": 73.95,
+    "Order": 10
+  },
+  {
+    "Name": 3885,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 9
+  },
+  {
+    "Name": 3146,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": -0.19,
+    "DeltaPYP": -2,
+    "Order": 9
+  },
+  {
+    "Name": 2472.4,
+    "AC": 9,
+    "PY": 12,
+    "DeltaPY": -3.29,
+    "DeltaPYP": -26.41,
+    "Order": 9
+  },
+  {
+    "Name": 3047,
+    "AC": 9,
+    "PY": 11,
+    "DeltaPY": -1.98,
+    "DeltaPYP": -18.23,
+    "Order": 9
+  },
+  {
+    "Name": 1351,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 9
+  },
+  {
+    "Name": 2581,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 9
+  },
+  {
+    "Name": 3874,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 9
+  },
+  {
+    "Name": 3135,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": 0.14,
+    "DeltaPYP": 1.63,
+    "Order": 9
+  },
+  {
+    "Name": 3824,
+    "AC": 9,
+    "PY": 9,
+    "DeltaPY": -0.04,
+    "DeltaPYP": -0.5,
+    "Order": 9
+  },
+  {
+    "Name": 1323,
+    "AC": 8,
+    "PY": 8,
+    "DeltaPY": 0.02,
+    "DeltaPYP": 0.22,
+    "Order": 8
+  },
+  {
+    "Name": 2460,
+    "AC": 8,
+    "PY": 8,
+    "DeltaPY": -0.47,
+    "DeltaPYP": -5.77,
+    "Order": 8
+  },
+  {
+    "Name": 3850,
+    "AC": 8,
+    "PY": 8,
+    "DeltaPY": -0.09,
+    "DeltaPYP": -1.15,
+    "Order": 8
+  },
+  {
+    "Name": 3141.1,
+    "AC": 8,
+    "PY": 7,
+    "DeltaPY": 0.19,
+    "DeltaPYP": 2.56,
+    "Order": 8
+  },
+  {
+    "Name": 1081,
+    "AC": 7,
+    "PY": 8,
+    "DeltaPY": -0.38,
+    "DeltaPYP": -4.94,
+    "Order": 7
+  },
+  {
+    "Name": 2484,
+    "AC": 7,
+    "PY": 4,
+    "DeltaPY": 3.01,
+    "DeltaPYP": 72.49,
+    "Order": 7
+  },
+  {
+    "Name": 3845,
+    "AC": 7,
+    "PY": 7,
+    "DeltaPY": -0.16,
+    "DeltaPYP": -2.16,
+    "Order": 7
+  },
+  {
+    "Name": 2580,
+    "AC": 7,
+    "PY": 7,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 7
+  },
+  {
+    "Name": 1357,
+    "AC": 7,
+    "PY": 7,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 7
+  },
+  {
+    "Name": 3136,
+    "AC": 7,
+    "PY": 7,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 7
+  },
+  {
+    "Name": 2453,
+    "AC": 7,
+    "PY": 4,
+    "DeltaPY": 2.82,
+    "DeltaPYP": 73.22,
+    "Order": 7
+  },
+  {
+    "Name": 1059,
+    "AC": 7,
+    "PY": 5,
+    "DeltaPY": 1.18,
+    "DeltaPYP": 21.83,
+    "Order": 7
+  },
+  {
+    "Name": 2471,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 6
+  },
+  {
+    "Name": 3131,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": 0.14,
+    "DeltaPYP": 2.28,
+    "Order": 6
+  },
+  {
+    "Name": 3124,
+    "AC": 6,
+    "PY": 20,
+    "DeltaPY": -14.01,
+    "DeltaPYP": -69.22,
+    "Order": 6
+  },
+  {
+    "Name": 1287,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": 0.02,
+    "DeltaPYP": 0.27,
+    "Order": 6
+  },
+  {
+    "Name": 940,
+    "AC": 6,
+    "PY": 1,
+    "DeltaPY": 4.8,
+    "DeltaPYP": 362.37,
+    "Order": 6
+  },
+  {
+    "Name": 3156,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 6
+  },
+  {
+    "Name": 1339,
+    "AC": 6,
+    "PY": 7,
+    "DeltaPY": -1.3,
+    "DeltaPYP": -17.63,
+    "Order": 6
+  },
+  {
+    "Name": 1188,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": -0.38,
+    "DeltaPYP": -6.02,
+    "Order": 6
+  },
+  {
+    "Name": 3140,
+    "AC": 6,
+    "PY": 6,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 0.18,
+    "Order": 6
+  },
+  {
+    "Name": 963,
+    "AC": 6,
+    "PY": 2,
+    "DeltaPY": 3.59,
+    "DeltaPYP": 166.43,
+    "Order": 6
+  },
+  {
+    "Name": 1344,
+    "AC": 6,
+    "PY": 5,
+    "DeltaPY": 0.26,
+    "DeltaPYP": 4.95,
+    "Order": 6
+  },
+  {
+    "Name": 2603,
+    "AC": 5,
+    "PY": 29,
+    "DeltaPY": -23.71,
+    "DeltaPYP": -81.67,
+    "Order": 5
+  },
+  {
+    "Name": 1190,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": 0.31,
+    "DeltaPYP": 6.13,
+    "Order": 5
+  },
+  {
+    "Name": 1077,
+    "AC": 5,
+    "PY": 4,
+    "DeltaPY": 0.74,
+    "DeltaPYP": 16.68,
+    "Order": 5
+  },
+  {
+    "Name": 1863,
+    "AC": 5,
+    "PY": 4,
+    "DeltaPY": 0.96,
+    "DeltaPYP": 23.11,
+    "Order": 5
+  },
+  {
+    "Name": 3117,
+    "AC": 5,
+    "PY": 6,
+    "DeltaPY": -0.9,
+    "DeltaPYP": -15,
+    "Order": 5
+  },
+  {
+    "Name": 3168,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": 0.05,
+    "DeltaPYP": 1,
+    "Order": 5
+  },
+  {
+    "Name": 3881,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 5
+  },
+  {
+    "Name": 3833,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": -0.03,
+    "DeltaPYP": -0.55,
+    "Order": 5
+  },
+  {
+    "Name": "2483.B",
+    "AC": 5,
+    "PY": 6,
+    "DeltaPY": -0.8,
+    "DeltaPYP": -14,
+    "Order": 5
+  },
+  {
+    "Name": 1371,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 5
+  },
+  {
+    "Name": 3133,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": 0.12,
+    "DeltaPYP": 2.56,
+    "Order": 5
+  },
+  {
+    "Name": 3854,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": -0.1,
+    "DeltaPYP": -2,
+    "Order": 5
+  },
+  {
+    "Name": 3896,
+    "AC": 5,
+    "PY": 5,
+    "DeltaPY": -0.1,
+    "DeltaPYP": -2,
+    "Order": 5
+  },
+  {
+    "Name": 865,
+    "AC": 5,
+    "PY": 3,
+    "DeltaPY": 1.85,
+    "DeltaPYP": 66.88,
+    "Order": 5
+  },
+  {
+    "Name": 1938,
+    "AC": 5,
+    "PY": 4,
+    "DeltaPY": 0.25,
+    "DeltaPYP": 5.9,
+    "Order": 5
+  },
+  {
+    "Name": 1101.1,
+    "AC": 4,
+    "PY": 2,
+    "DeltaPY": 1.95,
+    "DeltaPYP": 89.57,
+    "Order": 4
+  },
+  {
+    "Name": 3130.1,
+    "AC": 4,
+    "PY": 4,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 4
+  },
+  {
+    "Name": 3862,
+    "AC": 4,
+    "PY": 4,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 4
+  },
+  {
+    "Name": 2541,
+    "AC": 4,
+    "PY": 0,
+    "DeltaPY": 3.53,
+    "DeltaPYP": "1,555.87",
+    "Order": 4
+  },
+  {
+    "Name": 3173.1,
+    "AC": 4,
+    "PY": 3,
+    "DeltaPY": 0.94,
+    "DeltaPYP": 33.71,
+    "Order": 4
+  },
+  {
+    "Name": 965,
+    "AC": 4,
+    "PY": 3,
+    "DeltaPY": 0.58,
+    "DeltaPYP": 18.38,
+    "Order": 4
+  },
+  {
+    "Name": 3282,
+    "AC": 4,
+    "PY": 10,
+    "DeltaPY": -5.85,
+    "DeltaPYP": -61.28,
+    "Order": 4
+  },
+  {
+    "Name": 1185,
+    "AC": 4,
+    "PY": 4,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 4
+  },
+  {
+    "Name": 2704,
+    "AC": 4,
+    "PY": 3,
+    "DeltaPY": 0.57,
+    "DeltaPYP": 19.11,
+    "Order": 4
+  },
+  {
+    "Name": 819,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0.08,
+    "DeltaPYP": 2.36,
+    "Order": 3
+  },
+  {
+    "Name": 1860,
+    "AC": 3,
+    "PY": 5,
+    "DeltaPY": -1.37,
+    "DeltaPYP": -29.18,
+    "Order": 3
+  },
+  {
+    "Name": 1316,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 0.36,
+    "Order": 3
+  },
+  {
+    "Name": 3895,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": -0.07,
+    "DeltaPYP": -2,
+    "Order": 3
+  },
+  {
+    "Name": 3216,
+    "AC": 3,
+    "PY": 1,
+    "DeltaPY": 1.9,
+    "DeltaPYP": 152.73,
+    "Order": 3
+  },
+  {
+    "Name": 2483,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": -0.39,
+    "DeltaPYP": -11.13,
+    "Order": 3
+  },
+  {
+    "Name": 3142.1,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3190.3,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3193,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3849,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3891,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 1141,
+    "AC": 3,
+    "PY": 10,
+    "DeltaPY": -6.72,
+    "DeltaPYP": -69.23,
+    "Order": 3
+  },
+  {
+    "Name": 1065,
+    "AC": 3,
+    "PY": 2,
+    "DeltaPY": 0.43,
+    "DeltaPYP": 17.86,
+    "Order": 3
+  },
+  {
+    "Name": 3866,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 3
+  },
+  {
+    "Name": 964,
+    "AC": 3,
+    "PY": 9,
+    "DeltaPY": -5.9,
+    "DeltaPYP": -67.9,
+    "Order": 3
+  },
+  {
+    "Name": 3835,
+    "AC": 3,
+    "PY": 11,
+    "DeltaPY": -8.6,
+    "DeltaPYP": -75.51,
+    "Order": 3
+  },
+  {
+    "Name": "xx16",
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": -0.06,
+    "DeltaPYP": -2,
+    "Order": 3
+  },
+  {
+    "Name": 3118,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3164,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 860,
+    "AC": 3,
+    "PY": 0,
+    "DeltaPY": 2.44,
+    "DeltaPYP": "1,738.36",
+    "Order": 3
+  },
+  {
+    "Name": 3121,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 842,
+    "AC": 3,
+    "PY": 4,
+    "DeltaPY": -1.39,
+    "DeltaPYP": -35.46,
+    "Order": 3
+  },
+  {
+    "Name": 3883,
+    "AC": 3,
+    "PY": 3,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 3
+  },
+  {
+    "Name": 3169,
+    "AC": 3,
+    "PY": 9,
+    "DeltaPY": -6.5,
+    "DeltaPYP": -72.22,
+    "Order": 3
+  },
+  {
+    "Name": "xx3",
+    "AC": 2,
+    "PY": 1,
+    "DeltaPY": 1.82,
+    "DeltaPYP": 273.2,
+    "Order": 2
+  },
+  {
+    "Name": 2545,
+    "AC": 2,
+    "PY": 3,
+    "DeltaPY": -0.11,
+    "DeltaPYP": -4.07,
+    "Order": 2
+  },
+  {
+    "Name": 3825,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 1282,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 3.2,
+    "Order": 2
+  },
+  {
+    "Name": 1167,
+    "AC": 2,
+    "PY": 5,
+    "DeltaPY": -2.35,
+    "DeltaPYP": -49.54,
+    "Order": 2
+  },
+  {
+    "Name": 3846,
+    "AC": 2,
+    "PY": 40,
+    "DeltaPY": -37.14,
+    "DeltaPYP": -94.03,
+    "Order": 2
+  },
+  {
+    "Name": 848,
+    "AC": 2,
+    "PY": 7,
+    "DeltaPY": -4.51,
+    "DeltaPYP": -66.07,
+    "Order": 2
+  },
+  {
+    "Name": 1862,
+    "AC": 2,
+    "PY": 3,
+    "DeltaPY": -1.07,
+    "DeltaPYP": -31.52,
+    "Order": 2
+  },
+  {
+    "Name": 3141,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 3852,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 2473,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.35,
+    "DeltaPYP": 18.95,
+    "Order": 2
+  },
+  {
+    "Name": "xx32",
+    "AC": 2,
+    "PY": 1,
+    "DeltaPY": 1.49,
+    "DeltaPYP": 256.49,
+    "Order": 2
+  },
+  {
+    "Name": 3137,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.47,
+    "DeltaPYP": 29.38,
+    "Order": 2
+  },
+  {
+    "Name": 2544,
+    "AC": 2,
+    "PY": 1,
+    "DeltaPY": 0.82,
+    "DeltaPYP": 66.04,
+    "Order": 2
+  },
+  {
+    "Name": 3134.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 1.72,
+    "Order": 2
+  },
+  {
+    "Name": 3278,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.26,
+    "DeltaPYP": 14.75,
+    "Order": 2
+  },
+  {
+    "Name": 3125,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 1870,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.2,
+    "DeltaPYP": -9.25,
+    "Order": 2
+  },
+  {
+    "Name": 3840,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 1859,
+    "AC": 2,
+    "PY": 4,
+    "DeltaPY": -1.68,
+    "DeltaPYP": -46.09,
+    "Order": 2
+  },
+  {
+    "Name": 1848,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.14,
+    "DeltaPYP": 7.93,
+    "Order": 2
+  },
+  {
+    "Name": 3853,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.02,
+    "DeltaPYP": -1,
+    "Order": 2
+  },
+  {
+    "Name": 3135.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 3199,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 1826,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 1.44,
+    "Order": 2
+  },
+  {
+    "Name": 3130,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.06,
+    "DeltaPYP": 3.63,
+    "Order": 2
+  },
+  {
+    "Name": 854,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.36,
+    "DeltaPYP": -16.73,
+    "Order": 2
+  },
+  {
+    "Name": 3807,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.04,
+    "DeltaPYP": -2,
+    "Order": 2
+  },
+  {
+    "Name": 2465,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 2553,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": "xx2",
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.05,
+    "DeltaPYP": 2.7,
+    "Order": 2
+  },
+  {
+    "Name": 1365.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 2.14,
+    "Order": 2
+  },
+  {
+    "Name": 1866,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.56,
+    "DeltaPYP": -24.74,
+    "Order": 2
+  },
+  {
+    "Name": 3195,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 2472.2,
+    "AC": 2,
+    "PY": 1,
+    "DeltaPY": 0.26,
+    "DeltaPYP": 19.34,
+    "Order": 2
+  },
+  {
+    "Name": 1366.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": -0.06,
+    "DeltaPYP": -3.85,
+    "Order": 2
+  },
+  {
+    "Name": 3133.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 3838,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 3857,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 2
+  },
+  {
+    "Name": 823.1,
+    "AC": 2,
+    "PY": 2,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 2
+  },
+  {
+    "Name": 1236,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 1
+  },
+  {
+    "Name": "xx4",
+    "AC": 1,
+    "PY": 2,
+    "DeltaPY": -0.03,
+    "DeltaPYP": -2.24,
+    "Order": 1
+  },
+  {
+    "Name": 3171,
+    "AC": 1,
+    "PY": 4,
+    "DeltaPY": -2.23,
+    "DeltaPYP": -60.5,
+    "Order": 1
+  },
+  {
+    "Name": 2451,
+    "AC": 1,
+    "PY": 3,
+    "DeltaPY": -1.27,
+    "DeltaPYP": -46.57,
+    "Order": 1
+  },
+  {
+    "Name": 2552,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.47,
+    "DeltaPYP": 48.5,
+    "Order": 1
+  },
+  {
+    "Name": 1865,
+    "AC": 1,
+    "PY": 2,
+    "DeltaPY": -0.52,
+    "DeltaPYP": -27,
+    "Order": 1
+  },
+  {
+    "Name": "xx63",
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 1335,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.19,
+    "DeltaPYP": 15.55,
+    "Order": 1
+  },
+  {
+    "Name": 3154,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.94,
+    "DeltaPYP": 217.46,
+    "Order": 1
+  },
+  {
+    "Name": 1827,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 1.15,
+    "DeltaPYP": 659.26,
+    "Order": 1
+  },
+  {
+    "Name": 3147,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.03,
+    "DeltaPYP": -2,
+    "Order": 1
+  },
+  {
+    "Name": 830,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.44,
+    "DeltaPYP": 50.27,
+    "Order": 1
+  },
+  {
+    "Name": 1332,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 1.08,
+    "DeltaPYP": 525.09,
+    "Order": 1
+  },
+  {
+    "Name": 2542,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.09,
+    "DeltaPYP": 8.02,
+    "Order": 1
+  },
+  {
+    "Name": 3198,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 2537,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.18,
+    "DeltaPYP": 18.35,
+    "Order": 1
+  },
+  {
+    "Name": 1867,
+    "AC": 1,
+    "PY": 2,
+    "DeltaPY": -0.56,
+    "DeltaPYP": -32.91,
+    "Order": 1
+  },
+  {
+    "Name": 3200.1,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 1
+  },
+  {
+    "Name": "xx62",
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 1231,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 1
+  },
+  {
+    "Name": 1856,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.17,
+    "DeltaPYP": -13.92,
+    "Order": 1
+  },
+  {
+    "Name": 3803,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 3802,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 3202,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.43,
+    "DeltaPYP": -28.99,
+    "Order": 1
+  },
+  {
+    "Name": 3214,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.82,
+    "DeltaPYP": 367.59,
+    "Order": 1
+  },
+  {
+    "Name": 885,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.48,
+    "DeltaPYP": 85.26,
+    "Order": 1
+  },
+  {
+    "Name": 3192,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 2477,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 7.8,
+    "Order": 1
+  },
+  {
+    "Name": 1198,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.42,
+    "DeltaPYP": 71.77,
+    "Order": 1
+  },
+  {
+    "Name": 3161,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 1
+  },
+  {
+    "Name": 3142,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 3856,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.02,
+    "DeltaPYP": -2,
+    "Order": 1
+  },
+  {
+    "Name": 1363,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 7.53,
+    "Order": 1
+  },
+  {
+    "Name": 2779,
+    "AC": 1,
+    "PY": 2,
+    "DeltaPY": -0.66,
+    "DeltaPYP": -41.34,
+    "Order": 1
+  },
+  {
+    "Name": 828,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": -0.15,
+    "Order": 1
+  },
+  {
+    "Name": "xx60",
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.05,
+    "DeltaPYP": 6.54,
+    "Order": 1
+  },
+  {
+    "Name": 3831,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.13,
+    "DeltaPYP": -13.51,
+    "Order": 1
+  },
+  {
+    "Name": 1206,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.16,
+    "DeltaPYP": 25.71,
+    "Order": 1
+  },
+  {
+    "Name": 920,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 4.74,
+    "Order": 1
+  },
+  {
+    "Name": 841,
+    "AC": 1,
+    "PY": 3,
+    "DeltaPY": -1.81,
+    "DeltaPYP": -70.13,
+    "Order": 1
+  },
+  {
+    "Name": 882,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.18,
+    "DeltaPYP": 31.27,
+    "Order": 1
+  },
+  {
+    "Name": 3805,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 1266,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.15,
+    "DeltaPYP": 25.52,
+    "Order": 1
+  },
+  {
+    "Name": 3842,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 3804,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -2,
+    "Order": 1
+  },
+  {
+    "Name": 1255,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 4.74,
+    "Order": 1
+  },
+  {
+    "Name": 2470,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.46,
+    "DeltaPYP": 198.56,
+    "Order": 1
+  },
+  {
+    "Name": 3808,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": "xx61",
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 1868,
+    "AC": 1,
+    "PY": 2,
+    "DeltaPY": -0.87,
+    "DeltaPYP": -56.43,
+    "Order": 1
+  },
+  {
+    "Name": 1306,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.2,
+    "DeltaPYP": -23.29,
+    "Order": 1
+  },
+  {
+    "Name": 835,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.29,
+    "DeltaPYP": -30.54,
+    "Order": 1
+  },
+  {
+    "Name": 1294,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.17,
+    "DeltaPYP": -20.5,
+    "Order": 1
+  },
+  {
+    "Name": 1296,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.27,
+    "DeltaPYP": -29.18,
+    "Order": 1
+  },
+  {
+    "Name": 3806,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -2,
+    "Order": 1
+  },
+  {
+    "Name": 2456,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.12,
+    "DeltaPYP": 24.2,
+    "Order": 1
+  },
+  {
+    "Name": 1214,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 2.04,
+    "Order": 1
+  },
+  {
+    "Name": 1230,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 6.49,
+    "Order": 1
+  },
+  {
+    "Name": 1279,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.26,
+    "DeltaPYP": -30.04,
+    "Order": 1
+  },
+  {
+    "Name": 1292,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.26,
+    "DeltaPYP": -30.04,
+    "Order": 1
+  },
+  {
+    "Name": 1307,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.26,
+    "DeltaPYP": -30.04,
+    "Order": 1
+  },
+  {
+    "Name": 3834,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.27,
+    "DeltaPYP": 79.93,
+    "Order": 1
+  },
+  {
+    "Name": 1221,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.17,
+    "DeltaPYP": 40.12,
+    "Order": 1
+  },
+  {
+    "Name": 1313,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.21,
+    "DeltaPYP": -26.44,
+    "Order": 1
+  },
+  {
+    "Name": 2455,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.29,
+    "DeltaPYP": -33.66,
+    "Order": 1
+  },
+  {
+    "Name": 2780,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.11,
+    "DeltaPYP": -16.56,
+    "Order": 1
+  },
+  {
+    "Name": 982,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.28,
+    "DeltaPYP": 98.4,
+    "Order": 1
+  },
+  {
+    "Name": 1311,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -1.6,
+    "Order": 1
+  },
+  {
+    "Name": 3277,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 853,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 6.18,
+    "Order": 1
+  },
+  {
+    "Name": 2475,
+    "AC": 1,
+    "PY": 1,
+    "DeltaPY": -0.15,
+    "DeltaPYP": -22.08,
+    "Order": 1
+  },
+  {
+    "Name": 1291,
+    "AC": 1,
+    "PY": "-",
+    "DeltaPY": 0.51,
+    "DeltaPYP": "",
+    "Order": 1
+  },
+  {
+    "Name": 840,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 5.99,
+    "Order": 1
+  },
+  {
+    "Name": 3174,
+    "AC": 1,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 1
+  },
+  {
+    "Name": 866,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 2760,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.23,
+    "DeltaPYP": -32.88,
+    "Order": 0
+  },
+  {
+    "Name": 1225,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 0
+  },
+  {
+    "Name": 3839,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 0
+  },
+  {
+    "Name": 895,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.21,
+    "DeltaPYP": -32.85,
+    "Order": 0
+  },
+  {
+    "Name": 1298,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.13,
+    "DeltaPYP": -23.92,
+    "Order": 0
+  },
+  {
+    "Name": 1386,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 0
+  },
+  {
+    "Name": 1309,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.11,
+    "DeltaPYP": 37.01,
+    "Order": 0
+  },
+  {
+    "Name": 1923,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.04,
+    "DeltaPYP": -9.04,
+    "Order": 0
+  },
+  {
+    "Name": 1144,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.73,
+    "DeltaPYP": -64.53,
+    "Order": 0
+  },
+  {
+    "Name": 2761,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.08,
+    "DeltaPYP": 23.28,
+    "Order": 0
+  },
+  {
+    "Name": 3841,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 0
+  },
+  {
+    "Name": 2032,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.37,
+    "DeltaPYP": "2,385.23",
+    "Order": 0
+  },
+  {
+    "Name": 3267,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 1248,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.12,
+    "DeltaPYP": -23.93,
+    "Order": 0
+  },
+  {
+    "Name": 3157,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.01,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 1289,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.11,
+    "DeltaPYP": -24.51,
+    "Order": 0
+  },
+  {
+    "Name": 906,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.09,
+    "DeltaPYP": -22.96,
+    "Order": 0
+  },
+  {
+    "Name": 1310,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.43,
+    "DeltaPYP": -58.63,
+    "Order": 0
+  },
+  {
+    "Name": 1858,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.22,
+    "DeltaPYP": -42.1,
+    "Order": 0
+  },
+  {
+    "Name": "xx20",
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 3.21,
+    "Order": 0
+  },
+  {
+    "Name": 1189,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.55,
+    "DeltaPYP": -67.65,
+    "Order": 0
+  },
+  {
+    "Name": 1166,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 18.65,
+    "Order": 0
+  },
+  {
+    "Name": "xx6",
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 38.45,
+    "Order": 0
+  },
+  {
+    "Name": 2461,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 0
+  },
+  {
+    "Name": 2458,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 2.04,
+    "Order": 0
+  },
+  {
+    "Name": 2551,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.1,
+    "DeltaPYP": 73.64,
+    "Order": 0
+  },
+  {
+    "Name": 836,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.73,
+    "DeltaPYP": -75.8,
+    "Order": 0
+  },
+  {
+    "Name": 2539,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.45,
+    "DeltaPYP": -67.06,
+    "Order": 0
+  },
+  {
+    "Name": 864,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.17,
+    "DeltaPYP": -44.35,
+    "Order": 0
+  },
+  {
+    "Name": "2798_AD",
+    "AC": 0,
+    "PY": 7,
+    "DeltaPY": -6.79,
+    "DeltaPYP": -97,
+    "Order": 0
+  },
+  {
+    "Name": 3855,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 868,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.2,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 2587,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": -1.11,
+    "Order": 0
+  },
+  {
+    "Name": 3209,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.01,
+    "DeltaPYP": 5.72,
+    "Order": 0
+  },
+  {
+    "Name": 858,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.2,
+    "DeltaPYP": -51.15,
+    "Order": 0
+  },
+  {
+    "Name": "xx14",
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 2596,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.03,
+    "DeltaPYP": -12.54,
+    "Order": 0
+  },
+  {
+    "Name": 966,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 32.28,
+    "Order": 0
+  },
+  {
+    "Name": 1263,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.17,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 1917,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.08,
+    "DeltaPYP": 87.89,
+    "Order": 0
+  },
+  {
+    "Name": 2449,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.05,
+    "DeltaPYP": 38.13,
+    "Order": 0
+  },
+  {
+    "Name": 3868,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 0
+  },
+  {
+    "Name": 1073,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.09,
+    "DeltaPYP": 168.59,
+    "Order": 0
+  },
+  {
+    "Name": 2478,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 95,
+    "Order": 0
+  },
+  {
+    "Name": 823,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 32.28,
+    "Order": 0
+  },
+  {
+    "Name": 1319,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 0
+  },
+  {
+    "Name": 2538,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.64,
+    "DeltaPYP": -83.46,
+    "Order": 0
+  },
+  {
+    "Name": 1374,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.07,
+    "DeltaPYP": 129,
+    "Order": 0
+  },
+  {
+    "Name": 2472,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.03,
+    "DeltaPYP": 27.78,
+    "Order": 0
+  },
+  {
+    "Name": 3407,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -0.55,
+    "DeltaPYP": -83.3,
+    "Order": 0
+  },
+  {
+    "Name": 3867,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 0,
+    "Order": 0
+  },
+  {
+    "Name": "xx64",
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.21,
+    "DeltaPYP": -70.74,
+    "Order": 0
+  },
+  {
+    "Name": 928,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.08,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 1264,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.04,
+    "DeltaPYP": 110.41,
+    "Order": 0
+  },
+  {
+    "Name": 3820,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -1.35,
+    "DeltaPYP": -94.92,
+    "Order": 0
+  },
+  {
+    "Name": 948,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.07,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 1276,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.07,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 837,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.06,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 1928,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0.02,
+    "DeltaPYP": 45.66,
+    "Order": 0
+  },
+  {
+    "Name": 2462,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.28,
+    "DeltaPYP": -84.61,
+    "Order": 0
+  },
+  {
+    "Name": 3152,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": -2,
+    "Order": 0
+  },
+  {
+    "Name": 1869,
+    "AC": 0,
+    "PY": 1,
+    "DeltaPY": -1.42,
+    "DeltaPYP": -96.73,
+    "Order": 0
+  },
+  {
+    "Name": 2467,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.03,
+    "DeltaPYP": -39.64,
+    "Order": 0
+  },
+  {
+    "Name": 954,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.16,
+    "DeltaPYP": -78.92,
+    "Order": 0
+  },
+  {
+    "Name": 933,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.16,
+    "DeltaPYP": -80.63,
+    "Order": 0
+  },
+  {
+    "Name": 952,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.02,
+    "DeltaPYP": -38.25,
+    "Order": 0
+  },
+  {
+    "Name": 1854,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": -0.22,
+    "DeltaPYP": -87.21,
+    "Order": 0
+  },
+  {
+    "Name": 3150,
+    "AC": 0,
+    "PY": "-",
+    "DeltaPY": 0.03,
+    "DeltaPYP": "",
+    "Order": 0
+  },
+  {
+    "Name": 1857,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": 0,
+    "DeltaPYP": 12.57,
+    "Order": 0
+  },
+  {
+    "Name": 1085,
+    "AC": 0,
+    "PY": 0,
+    "DeltaPY": "-",
+    "DeltaPYP": "-",
+    "Order": 0
+  },
+  {
+    "Name": 1209,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -0.8,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 1271,
+    "AC": "-",
+    "PY": "-",
+    "DeltaPY": "-",
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 1277,
+    "AC": "-",
+    "PY": 0,
+    "DeltaPY": -0.29,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 1872,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -0.91,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 2549,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -0.63,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 2588,
+    "AC": "-",
+    "PY": 0,
+    "DeltaPY": -0.04,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3190.4,
+    "AC": "-",
+    "PY": 10,
+    "DeltaPY": -10.5,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3193.1,
+    "AC": "-",
+    "PY": 3,
+    "DeltaPY": -3,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3211,
+    "AC": "-",
+    "PY": 0,
+    "DeltaPY": -0.07,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3813,
+    "AC": "-",
+    "PY": 3,
+    "DeltaPY": -3.43,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3892,
+    "AC": "-",
+    "PY": 400,
+    "DeltaPY": -400,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3893,
+    "AC": "-",
+    "PY": 20,
+    "DeltaPY": -20,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3894,
+    "AC": "-",
+    "PY": 10,
+    "DeltaPY": -10.32,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 833,
+    "AC": "-",
+    "PY": 0,
+    "DeltaPY": -0.11,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 889,
+    "AC": "-",
+    "PY": 26,
+    "DeltaPY": -25.57,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 939,
+    "AC": "-",
+    "PY": 0,
+    "DeltaPY": -0.05,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": "xx59",
+    "AC": "-",
+    "PY": 10,
+    "DeltaPY": -10,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 1331,
+    "AC": "-",
+    "PY": 226,
+    "DeltaPY": -226,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 1355,
+    "AC": "-",
+    "PY": 19,
+    "DeltaPY": -19.42,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3272,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -0.75,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3408,
+    "AC": "-",
+    "PY": 3,
+    "DeltaPY": -3.15,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3898,
+    "AC": "-",
+    "PY": 56,
+    "DeltaPY": -56,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3899,
+    "AC": "-",
+    "PY": 49,
+    "DeltaPY": -49.3,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3901,
+    "AC": "-",
+    "PY": 20,
+    "DeltaPY": -20.06,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3902,
+    "AC": "-",
+    "PY": 40,
+    "DeltaPY": -39.64,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3903,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -0.5,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3904,
+    "AC": "-",
+    "PY": 1,
+    "DeltaPY": -1.43,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3905,
+    "AC": "-",
+    "PY": 14,
+    "DeltaPY": -14.16,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3906,
+    "AC": "-",
+    "PY": 8,
+    "DeltaPY": -7.75,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3907,
+    "AC": "-",
+    "PY": 10,
+    "DeltaPY": -10,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": 3918,
+    "AC": "-",
+    "PY": 52,
+    "DeltaPY": -51.72,
+    "DeltaPYP": "",
+    "Order": "-"
+  },
+  {
+    "Name": "xx15",
+    "AC": "-",
+    "PY": 20,
+    "DeltaPY": -20.34,
+    "DeltaPYP": "",
+    "Order": "-"
+  }
+]
